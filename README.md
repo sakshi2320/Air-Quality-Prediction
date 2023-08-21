@@ -1,6 +1,6 @@
 # Air Quality Prediction
- ![Python 3.10](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![Scikit-learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![Streamlit](https://img.shields.io/badge/Framework-Flask-black.svg)
-
+ ![Python 3.10](https://img.shields.io/badge/Python-3.10-brightgreen.svg) ![Scikit-learn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) 
+ 
 > This project aims to develop a machine learning model to predict AQI levels based on 
 environmental factors. Air pollution is a significant public health concern that affects millions of people 
 worldwide. The Air Quality Index (AQI) provides a measure of air quality that is easy to 
